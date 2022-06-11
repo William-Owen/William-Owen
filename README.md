@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @William-Owen
-- 👀 I’m interested in cheese
-- 🌱 I’m currently learning about the github readme
-- 💞️ I’m looking to collaborate on adding funds to my bacnk account
-- 📫 How to reach me come to where I am and streach
+👋 Hi, I’m @William-Owen
 
 <!---
 William-Owen/William-Owen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
