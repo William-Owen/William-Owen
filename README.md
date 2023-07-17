@@ -1,6 +1,3 @@
 👋 Hi, I’m @William-Owen
 
-<!---
-William-Owen/William-Owen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The strongest solutions come from understanding design and technology as a single medium. Identifying the right approach involves thinking across domains. It is also critical to understand business aspirations and objectives and communicate effectively with both stakeholders and multi-discipline teams. My broad background allows me to help businesses design and deliver products, tools and services in this way.
